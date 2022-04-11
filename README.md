@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennyvong&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennyvong&langs_count=8&theme=radical)
 
 ### Technicals Competencies:
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
 ### Tools
